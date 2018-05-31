@@ -2,7 +2,7 @@
 
 ## script.sh : permet de créer une machine virtuelle avec Vagrant 
 
-- A VENIR - Vérifier l'installation de Vagrant et Virtualbox - Créer le dossier de synchronisation 
+- Créer le dossier de synchronisation 
 - Choisir une box Vagrant à utiliser (ici ubuntu/xenial64) 
 - A VENIR - Choisir un host 
 - Modifier le fichier Vagrantfile avec les configurations choisies 
